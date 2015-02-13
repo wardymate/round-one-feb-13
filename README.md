@@ -1,4 +1,4 @@
-### Round Two: Robot Instructions.
+### Round 1: Robot Instructions.
 
 Robbo the Robot is lost and needs find a way home. Given his current location, [x, y], and home location, [x, y], write a method that will tell Robbo the shortest path to take to get home.
 
